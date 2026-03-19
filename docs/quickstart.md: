@@ -1,0 +1,25 @@
+# Quickstart
+
+1. Visit [clawlaunchpad.com](https://clawlaunchpad.com)
+2. Select "Ship Code" workflow.
+3. Connect your GitHub / Discord / email.
+4. Click **Deploy**.
+
+Your agent is live in <60 seconds.
+# Roadmap
+
+## v0.1 (Live)
+- Core workflows (code, growth, ops)
+- ClawRouter integration
+- Basic dashboard
+
+## v0.2 (Q1 2026)
+- Bankr / Base on‑chain payments
+- Custom workflow builder
+- Multi‑agent orchestration
+workflow: "code-ship"
+models: ["claude‑3.5‑sonnet", "gpt‑4o‑mini"]
+safety: "high"
+git add .
+git commit -m "Initial docs + quickstart + roadmap"
+git push origin main
